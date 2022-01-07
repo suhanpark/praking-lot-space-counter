@@ -1,3 +1,2 @@
-# praking-lot-space-counter
-practice for opencv
-![result](result.mov)
+## Parking lot space counter
+![](result.gif)
